@@ -1,35 +1,32 @@
 # Hi there 👋, I'm Mokhlesur Rahman
 
 💻 **Software Developer** at **XPONENT InfoSystem (PVT) Ltd.**  
-🚀 Passionate about building dynamic and responsive web applications  
-🧠 I bring a passion for clean code and a keen eye for user experience  
+🚀 Passionate about building dynamic, scalable, and user-friendly web applications  
+🧠 Strong believer in clean code and great user experience  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 👨‍🏫 I’m currently learning **.NET**
-- 🧩 Currently, I learn system in **poridhi.io**
-- 👯 I’m looking to collaborate on **GitHub**
-- 💬 Ask me about **JavaScript, Next.js**
-- 🕵️‍♂️ How to reach me: **mokhlesurinfo5@gmail.com**
+- 🔭 Working as a **Software Developer**
+- 🌱 Currently learning **.NET**
+- 🧩 Currently learning **System Design** at **[poridhi.io](https://poridhi.io)**
+- 👯 Looking to collaborate on **GitHub**
+- 💬 Ask me about **JavaScript** and **Next.js**
+- 📫 Reach me at: **mokhlesurinfo5@gmail.com**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-**JS / React / Next.js / Node / Express / MongoDB / Prisma / AWS**
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mokhlesurrahman&theme=dark&hide_border=true)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokhlesurrahman&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokhlesurrahman&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 
 ---
 
@@ -41,3 +38,14 @@
 <a href="https://www.facebook.com/pm.mokhles" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
 </a>
+
+---
+
+## 📊 GitHub Statistics
+
+![Mokhlesur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokhlesurrahman&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhlesurrahman&layout=compact&theme=tokyonight)
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
